@@ -1,0 +1,437 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EventsManagerError"
+- "EventsManager"
+provides-nominal:
+- "10KDCalendar18EventsManagerErrorO"
+- "10KDCalendar13EventsManagerC"
+provides-member:
+- ["10KDCalendar18EventsManagerErrorO", ""]
+- ["10KDCalendar13EventsManagerC", ""]
+provides-dynamic-lookup:
+- "add"
+- "fetch"
+- "load"
+- "store"
+depends-top-level:
+- !private "*"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CalendarEvent"
+- "Date"
+- !private "DispatchQueue"
+- !private "EKEntityType"
+- !private "EKEvent"
+- "EKEventStore"
+- "Error"
+- "EventsManager"
+- "EventsManagerError"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "TimeInterval"
+- !private "TimeZone"
+- "Void"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "map"]
+- !private ["SK", "map"]
+- !private ["SB", "init"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "authorizationStatus"]
+- !private ["s7CVarArgP", "calendar"]
+- !private ["s7CVarArgP", "defaultCalendarForNewEvents"]
+- !private ["s7CVarArgP", "endDate"]
+- !private ["s7CVarArgP", "events"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "predicateForEvents"]
+- !private ["s7CVarArgP", "requestAccess"]
+- !private ["s7CVarArgP", "save"]
+- !private ["s7CVarArgP", "startDate"]
+- !private ["s7CVarArgP", "title"]
+- !private ["10KDCalendar13CalendarEventV", "endDate"]
+- !private ["10KDCalendar13CalendarEventV", "init"]
+- !private ["10KDCalendar13CalendarEventV", "startDate"]
+- !private ["10KDCalendar13CalendarEventV", "title"]
+- !private ["Sl", "map"]
+- !private ["SL", "addingTimeInterval"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "addingTimeInterval"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "authorizationStatus"]
+- !private ["s28CustomDebugStringConvertibleP", "calendar"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "defaultCalendarForNewEvents"]
+- !private ["s28CustomDebugStringConvertibleP", "endDate"]
+- !private ["s28CustomDebugStringConvertibleP", "events"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "predicateForEvents"]
+- !private ["s28CustomDebugStringConvertibleP", "requestAccess"]
+- !private ["s28CustomDebugStringConvertibleP", "save"]
+- !private ["s28CustomDebugStringConvertibleP", "secondsFromGMT"]
+- !private ["s28CustomDebugStringConvertibleP", "startDate"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s17CustomReflectableP", "addingTimeInterval"]
+- !private ["s17CustomReflectableP", "current"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "secondsFromGMT"]
+- !private ["s23CustomStringConvertibleP", "addingTimeInterval"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "authorizationStatus"]
+- !private ["s23CustomStringConvertibleP", "calendar"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "defaultCalendarForNewEvents"]
+- !private ["s23CustomStringConvertibleP", "endDate"]
+- !private ["s23CustomStringConvertibleP", "events"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "predicateForEvents"]
+- !private ["s23CustomStringConvertibleP", "requestAccess"]
+- !private ["s23CustomStringConvertibleP", "save"]
+- !private ["s23CustomStringConvertibleP", "secondsFromGMT"]
+- !private ["s23CustomStringConvertibleP", "startDate"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation4DateV", "addingTimeInterval"]
+- !private ["Se", "addingTimeInterval"]
+- !private ["Se", "current"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "secondsFromGMT"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["Sd", "init"]
+- !private ["So21EKAuthorizationStatusV", "authorized"]
+- !private ["So14EKCalendarItemC", "calendar"]
+- !private ["So14EKCalendarItemC", "endDate"]
+- !private ["So14EKCalendarItemC", "init"]
+- !private ["So14EKCalendarItemC", "startDate"]
+- !private ["So14EKCalendarItemC", "title"]
+- !private ["So12EKEntityTypeV", "event"]
+- !private ["So7EKEventC", "calendar"]
+- !private ["So7EKEventC", "endDate"]
+- !private ["So7EKEventC", "init"]
+- !private ["So7EKEventC", "startDate"]
+- !private ["So7EKEventC", "title"]
+- !private ["So12EKEventStoreC", "authorizationStatus"]
+- !private ["So12EKEventStoreC", "defaultCalendarForNewEvents"]
+- !private ["So12EKEventStoreC", "events"]
+- ["So12EKEventStoreC", "init"]
+- !private ["So12EKEventStoreC", "predicateForEvents"]
+- !private ["So12EKEventStoreC", "requestAccess"]
+- !private ["So12EKEventStoreC", "save"]
+- !private ["So8EKObjectC", "calendar"]
+- !private ["So8EKObjectC", "endDate"]
+- !private ["So8EKObjectC", "init"]
+- !private ["So8EKObjectC", "startDate"]
+- !private ["So8EKObjectC", "title"]
+- !private ["So6EKSpanV", "thisEvent"]
+- !private ["SE", "addingTimeInterval"]
+- !private ["SE", "current"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "secondsFromGMT"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- !private ["SQ", "addingTimeInterval"]
+- !private ["SQ", "async"]
+- !private ["SQ", "authorizationStatus"]
+- !private ["SQ", "authorized"]
+- !private ["SQ", "calendar"]
+- !private ["SQ", "current"]
+- !private ["SQ", "defaultCalendarForNewEvents"]
+- !private ["SQ", "endDate"]
+- !private ["SQ", "event"]
+- !private ["SQ", "events"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "main"]
+- !private ["SQ", "map"]
+- !private ["SQ", "predicateForEvents"]
+- !private ["SQ", "requestAccess"]
+- !private ["SQ", "save"]
+- !private ["SQ", "secondsFromGMT"]
+- !private ["SQ", "startDate"]
+- !private ["SQ", "thisEvent"]
+- !private ["SQ", "title"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["10KDCalendar13EventsManagerC", "Bool"]
+- ["10KDCalendar13EventsManagerC", "CalendarEvent"]
+- ["10KDCalendar13EventsManagerC", "Date"]
+- !private ["10KDCalendar13EventsManagerC", "DispatchQueue"]
+- !private ["10KDCalendar13EventsManagerC", "EKEntityType"]
+- !private ["10KDCalendar13EventsManagerC", "EKEvent"]
+- ["10KDCalendar13EventsManagerC", "EKEventStore"]
+- !private ["10KDCalendar13EventsManagerC", "EventsManager"]
+- !private ["10KDCalendar13EventsManagerC", "TimeInterval"]
+- !private ["10KDCalendar13EventsManagerC", "TimeZone"]
+- ["10KDCalendar13EventsManagerC", "Void"]
+- ["10KDCalendar13EventsManagerC", "add"]
+- ["10KDCalendar13EventsManagerC", "deinit"]
+- !private ["10KDCalendar13EventsManagerC", "fetch"]
+- ["10KDCalendar13EventsManagerC", "init"]
+- ["10KDCalendar13EventsManagerC", "load"]
+- !private ["10KDCalendar13EventsManagerC", "store"]
+- ["10KDCalendar18EventsManagerErrorO", "=="]
+- ["10KDCalendar18EventsManagerErrorO", "Authorization"]
+- ["10KDCalendar18EventsManagerErrorO", "__derived_enum_equals"]
+- ["10KDCalendar18EventsManagerErrorO", "_code"]
+- ["10KDCalendar18EventsManagerErrorO", "_domain"]
+- ["10KDCalendar18EventsManagerErrorO", "_getEmbeddedNSError"]
+- ["10KDCalendar18EventsManagerErrorO", "_rawHashValue"]
+- ["10KDCalendar18EventsManagerErrorO", "_userInfo"]
+- ["10KDCalendar18EventsManagerErrorO", "deinit"]
+- ["10KDCalendar18EventsManagerErrorO", "hash"]
+- ["10KDCalendar18EventsManagerErrorO", "hashValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addingTimeInterval"]
+- !private ["SF", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- !private ["SH", "addingTimeInterval"]
+- !private ["SH", "async"]
+- !private ["SH", "authorizationStatus"]
+- !private ["SH", "authorized"]
+- !private ["SH", "calendar"]
+- !private ["SH", "current"]
+- !private ["SH", "defaultCalendarForNewEvents"]
+- !private ["SH", "endDate"]
+- !private ["SH", "event"]
+- !private ["SH", "events"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "main"]
+- !private ["SH", "map"]
+- !private ["SH", "predicateForEvents"]
+- !private ["SH", "requestAccess"]
+- !private ["SH", "save"]
+- !private ["SH", "secondsFromGMT"]
+- !private ["SH", "startDate"]
+- !private ["SH", "thisEvent"]
+- !private ["SH", "title"]
+- !private ["s6HasherV", "combine"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "authorizationStatus"]
+- !private ["So8NSObjectC", "calendar"]
+- !private ["So8NSObjectC", "defaultCalendarForNewEvents"]
+- !private ["So8NSObjectC", "endDate"]
+- !private ["So8NSObjectC", "events"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "predicateForEvents"]
+- !private ["So8NSObjectC", "requestAccess"]
+- !private ["So8NSObjectC", "save"]
+- !private ["So8NSObjectC", "startDate"]
+- !private ["So8NSObjectC", "title"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "authorizationStatus"]
+- !private ["So8NSObjectP", "calendar"]
+- !private ["So8NSObjectP", "defaultCalendarForNewEvents"]
+- !private ["So8NSObjectP", "endDate"]
+- !private ["So8NSObjectP", "events"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "predicateForEvents"]
+- !private ["So8NSObjectP", "requestAccess"]
+- !private ["So8NSObjectP", "save"]
+- !private ["So8NSObjectP", "startDate"]
+- !private ["So8NSObjectP", "title"]
+- !private ["Sj", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["Sq", "addingTimeInterval"]
+- !private ["Sk", "map"]
+- !private ["Sm", "map"]
+- !private ["SY", "authorized"]
+- !private ["SY", "event"]
+- !private ["SY", "thisEvent"]
+- !private ["10Foundation20ReferenceConvertibleP", "addingTimeInterval"]
+- !private ["10Foundation20ReferenceConvertibleP", "current"]
+- !private ["10Foundation20ReferenceConvertibleP", "secondsFromGMT"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["7Combine9SchedulerP", "async"]
+- !private ["7Combine9SchedulerP", "main"]
+- !private ["ST", "map"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation8TimeZoneV", "current"]
+- !private ["10Foundation8TimeZoneV", "secondsFromGMT"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "addingTimeInterval"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "authorizationStatus"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calendar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "defaultCalendarForNewEvents"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "events"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "predicateForEvents"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestAccess"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "save"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "async"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "authorizationStatus"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "calendar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "defaultCalendarForNewEvents"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "endDate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "events"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "predicateForEvents"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "requestAccess"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "save"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "startDate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "title"]
+- !private ["s21_ObjectiveCBridgeableP", "addingTimeInterval"]
+- !private ["s21_ObjectiveCBridgeableP", "current"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "secondsFromGMT"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "SB"
+- "s7CVarArgP"
+- !private "10KDCalendar13CalendarEventV"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "Sd"
+- !private "So21EKAuthorizationStatusV"
+- !private "So14EKCalendarItemC"
+- !private "So12EKEntityTypeV"
+- !private "So7EKEventC"
+- "So12EKEventStoreC"
+- !private "So8EKObjectC"
+- !private "So6EKSpanV"
+- !private "SE"
+- "SQ"
+- "s5ErrorP"
+- "10KDCalendar13EventsManagerC"
+- "10KDCalendar18EventsManagerErrorO"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SF"
+- "SH"
+- !private "s6HasherV"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "So9OS_objectC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "7Combine9SchedulerP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation8TimeZoneV"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1e713bf69a5d58bb0003e82aafb67020"

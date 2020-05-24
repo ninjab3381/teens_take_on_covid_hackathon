@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54451070F549D6C37EBBF650D9C974872E3B6C88" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4BCB5CA3-12A6-47B4-A723-C3572F7B7D06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54451070F549D6C37EBBF650D9C974872E3B6C88" : "..\/..\/Library\/Developer\/Xcode\/DerivedData\/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp\/SourcePackages\/checkouts\/CalendarView"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "covid_health_discussion",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "covid_health_discussion.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mmick66\/CalendarView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54451070F549D6C37EBBF650D9C974872E3B6C88"
+    }
+  ]
+}

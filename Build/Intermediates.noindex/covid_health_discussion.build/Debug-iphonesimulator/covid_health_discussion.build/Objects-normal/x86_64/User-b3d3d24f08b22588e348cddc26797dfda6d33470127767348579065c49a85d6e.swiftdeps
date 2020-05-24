@@ -1,0 +1,366 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "user"
+provides-nominal:
+- "23covid_health_discussion4userC"
+- "23covid_health_discussion4userC11PropertyKeyV"
+provides-member:
+- ["23covid_health_discussion4userC", ""]
+- ["23covid_health_discussion4userC11PropertyKeyV", ""]
+provides-dynamic-lookup:
+- "ArchiveURL"
+- "DocumentsDirectory"
+- "agegroup"
+- "encode"
+- "gender"
+- "language"
+- "name"
+- "rating"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "FileManager"
+- "Int"
+- "NSCoder"
+- "NSCoding"
+- "NSObject"
+- !private "OSLog"
+- "String"
+- "StringLiteralType"
+- !private "os_log"
+- "user"
+depends-member:
+- ["Sa", "first"]
+- ["SK", "first"]
+- ["s7CVarArgP", "DocumentsDirectory"]
+- ["s7CVarArgP", "FileManager"]
+- !private ["s7CVarArgP", "OSLog"]
+- !private ["s7CVarArgP", "PropertyKey"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "agegroup"]
+- !private ["s7CVarArgP", "decodeInteger"]
+- !private ["s7CVarArgP", "decodeObject"]
+- !private ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "encode"]
+- ["s7CVarArgP", "encodeWithCoder"]
+- ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "gender"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "language"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "os_log"]
+- !private ["s7CVarArgP", "rating"]
+- ["s7CVarArgP", "urls"]
+- ["Sl", "first"]
+- ["10Foundation15ContiguousBytesP", "first"]
+- ["s28CustomDebugStringConvertibleP", "DocumentsDirectory"]
+- ["s28CustomDebugStringConvertibleP", "FileManager"]
+- !private ["s28CustomDebugStringConvertibleP", "OSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "PropertyKey"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "agegroup"]
+- ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "decodeInteger"]
+- !private ["s28CustomDebugStringConvertibleP", "decodeObject"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "encode"]
+- ["s28CustomDebugStringConvertibleP", "encodeWithCoder"]
+- ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "gender"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "language"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "os_log"]
+- !private ["s28CustomDebugStringConvertibleP", "rating"]
+- ["s28CustomDebugStringConvertibleP", "urls"]
+- ["s17CustomReflectableP", "first"]
+- ["s23CustomStringConvertibleP", "DocumentsDirectory"]
+- ["s23CustomStringConvertibleP", "FileManager"]
+- !private ["s23CustomStringConvertibleP", "OSLog"]
+- !private ["s23CustomStringConvertibleP", "PropertyKey"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "agegroup"]
+- ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "decodeInteger"]
+- !private ["s23CustomStringConvertibleP", "decodeObject"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "encode"]
+- ["s23CustomStringConvertibleP", "encodeWithCoder"]
+- ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "gender"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "language"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "os_log"]
+- !private ["s23CustomStringConvertibleP", "rating"]
+- ["s23CustomStringConvertibleP", "urls"]
+- ["10Foundation12DataProtocolP", "first"]
+- ["Se", "appendingPathComponent"]
+- ["Se", "first"]
+- ["SE", "appendingPathComponent"]
+- ["SE", "first"]
+- ["SQ", "DocumentsDirectory"]
+- ["SQ", "FileManager"]
+- !private ["SQ", "OSLog"]
+- !private ["SQ", "PropertyKey"]
+- ["SQ", ""]
+- !private ["SQ", "agegroup"]
+- ["SQ", "appendingPathComponent"]
+- !private ["SQ", "debug"]
+- !private ["SQ", "decodeInteger"]
+- !private ["SQ", "decodeObject"]
+- !private ["SQ", "default"]
+- ["SQ", "documentDirectory"]
+- ["SQ", "encode"]
+- ["SQ", "encodeWithCoder"]
+- ["SQ", "first"]
+- !private ["SQ", "gender"]
+- ["SQ", "init"]
+- !private ["SQ", "language"]
+- !private ["SQ", "name"]
+- !private ["SQ", "os_log"]
+- !private ["SQ", "rating"]
+- ["SQ", "urls"]
+- ["SQ", "userDomainMask"]
+- ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- ["So13NSFileManagerC", "init"]
+- ["So13NSFileManagerC", "urls"]
+- ["SH", "DocumentsDirectory"]
+- ["SH", "FileManager"]
+- !private ["SH", "OSLog"]
+- !private ["SH", "PropertyKey"]
+- ["SH", ""]
+- !private ["SH", "agegroup"]
+- ["SH", "appendingPathComponent"]
+- !private ["SH", "decodeInteger"]
+- !private ["SH", "decodeObject"]
+- !private ["SH", "default"]
+- ["SH", "documentDirectory"]
+- ["SH", "encode"]
+- ["SH", "encodeWithCoder"]
+- ["SH", "first"]
+- !private ["SH", "gender"]
+- ["SH", "init"]
+- !private ["SH", "language"]
+- !private ["SH", "name"]
+- !private ["SH", "os_log"]
+- !private ["SH", "rating"]
+- ["SH", "urls"]
+- ["SM", "first"]
+- ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So7NSCoderC", "decodeInteger"]
+- !private ["So7NSCoderC", "decodeObject"]
+- !private ["So7NSCoderC", "encode"]
+- ["So8NSCodingP", "DocumentsDirectory"]
+- ["So8NSCodingP", "FileManager"]
+- !private ["So8NSCodingP", "OSLog"]
+- !private ["So8NSCodingP", "PropertyKey"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "agegroup"]
+- ["So8NSCodingP", "encode"]
+- ["So8NSCodingP", "encodeWithCoder"]
+- !private ["So8NSCodingP", "gender"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "language"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "os_log"]
+- !private ["So8NSCodingP", "rating"]
+- ["So8NSObjectC", "ArchiveURL"]
+- ["So8NSObjectC", "DocumentsDirectory"]
+- ["So8NSObjectC", "FileManager"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "OSLog"]
+- !private ["So8NSObjectC", "PropertyKey"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "agegroup"]
+- !private ["So8NSObjectC", "decodeInteger"]
+- !private ["So8NSObjectC", "decodeObject"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "encode"]
+- ["So8NSObjectC", "encodeWithCoder"]
+- ["So8NSObjectC", "gender"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "language"]
+- ["So8NSObjectC", "name"]
+- !private ["So8NSObjectC", "os_log"]
+- ["So8NSObjectC", "rating"]
+- ["So8NSObjectC", "urls"]
+- ["So8NSObjectP", "DocumentsDirectory"]
+- ["So8NSObjectP", "FileManager"]
+- !private ["So8NSObjectP", "OSLog"]
+- !private ["So8NSObjectP", "PropertyKey"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "agegroup"]
+- !private ["So8NSObjectP", "decodeInteger"]
+- !private ["So8NSObjectP", "decodeObject"]
+- !private ["So8NSObjectP", "default"]
+- ["So8NSObjectP", "encode"]
+- ["So8NSObjectP", "encodeWithCoder"]
+- !private ["So8NSObjectP", "gender"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "language"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "os_log"]
+- !private ["So8NSObjectP", "rating"]
+- ["So8NSObjectP", "urls"]
+- !private ["So9OS_os_logC", "default"]
+- !private ["So13os_log_type_ta", "debug"]
+- ["s9OptionSetP", "userDomainMask"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "agegroup"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "gender"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "init"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "language"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "name"]
+- ["23covid_health_discussion4userC11PropertyKeyV", "rating"]
+- ["Sk", "first"]
+- ["Sm", "first"]
+- !private ["SY", "debug"]
+- ["SY", "documentDirectory"]
+- ["SY", "userDomainMask"]
+- ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- ["So21NSSearchPathDirectoryV", "documentDirectory"]
+- ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- ["ST", "first"]
+- ["s10SetAlgebraP", "userDomainMask"]
+- ["10Foundation3URLV", "appendingPathComponent"]
+- ["s14_ArrayProtocolP", "first"]
+- ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- ["s24_DestructorSafeContainerP", "first"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- ["s19_HasContiguousBytesP", "first"]
+- ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DocumentsDirectory"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "OSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PropertyKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "agegroup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeInteger"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encodeWithCoder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "gender"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "language"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "os_log"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rating"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urls"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "DocumentsDirectory"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FileManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "OSLog"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PropertyKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "agegroup"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeInteger"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeObject"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encodeWithCoder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gender"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "language"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "os_log"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "rating"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "urls"]
+- ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "first"]
+- ["23covid_health_discussion4userC", "ArchiveURL"]
+- ["23covid_health_discussion4userC", "DocumentsDirectory"]
+- ["23covid_health_discussion4userC", "FileManager"]
+- ["23covid_health_discussion4userC", "Int"]
+- ["23covid_health_discussion4userC", "NSCoder"]
+- !private ["23covid_health_discussion4userC", "OSLog"]
+- ["23covid_health_discussion4userC", "PropertyKey"]
+- ["23covid_health_discussion4userC", "String"]
+- ["23covid_health_discussion4userC", "agegroup"]
+- ["23covid_health_discussion4userC", "deinit"]
+- ["23covid_health_discussion4userC", "encode"]
+- ["23covid_health_discussion4userC", "encodeWithCoder"]
+- ["23covid_health_discussion4userC", "gender"]
+- ["23covid_health_discussion4userC", "init"]
+- ["23covid_health_discussion4userC", "language"]
+- ["23covid_health_discussion4userC", "name"]
+- !private ["23covid_health_discussion4userC", "os_log"]
+- ["23covid_health_discussion4userC", "rating"]
+depends-nominal:
+- "Sa"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "So13NSFileManagerC"
+- "SH"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So7NSCoderC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So9OS_os_logC"
+- !private "So13os_log_type_ta"
+- "s9OptionSetP"
+- "23covid_health_discussion4userC11PropertyKeyV"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "So21NSSearchPathDirectoryV"
+- "So22NSSearchPathDomainMaskV"
+- "ST"
+- "s10SetAlgebraP"
+- "10Foundation3URLV"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "23covid_health_discussion4userC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "70a0328f2c8ff5b4209f90170e457cda"

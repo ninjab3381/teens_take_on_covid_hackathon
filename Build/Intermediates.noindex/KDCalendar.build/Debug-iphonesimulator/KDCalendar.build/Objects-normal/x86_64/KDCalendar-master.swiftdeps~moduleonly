@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "5cbc95bf2b9b383cef8872512fc59311"
+build_time: [1590261023, 890713000]
+inputs:
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarDayCell.swift": [1590261010, 886164984]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarFlowLayout.swift": [1590261010, 886573153]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarHeaderView.swift": [1590261010, 887018460]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarView+DataSource.swift": [1590261011, 176968393]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarView+Delegate.swift": [1590261011, 177357034]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarView+Extensions.swift": [1590261010, 888806219]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarView+Style.swift": [1590261010, 889303353]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/CalendarView.swift": [1590261011, 177800921]
+  "/Users/rbhatia/Library/Developer/Xcode/DerivedData/covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp/SourcePackages/checkouts/CalendarView/KDCalendar/CalendarView/EventsManager.swift": [1590261010, 890178093]

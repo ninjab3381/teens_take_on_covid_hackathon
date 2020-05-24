@@ -1,0 +1,4 @@
+module KDCalendar {
+header "KDCalendar-Swift.h"
+export *
+}

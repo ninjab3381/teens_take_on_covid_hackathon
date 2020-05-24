@@ -1,0 +1,598 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "10KDCalendar12CalendarViewC5StyleC"
+- "10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO"
+- "10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO"
+- "10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO"
+- "10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO"
+provides-member:
+- ["10KDCalendar12CalendarViewC", ""]
+- ["10KDCalendar12CalendarViewC5StyleC", ""]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", ""]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", ""]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", ""]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", ""]
+- ["10KDCalendar12CalendarViewC", "Style"]
+provides-dynamic-lookup:
+- "$__lazy_storage_$_calendar"
+- "Default"
+- "calendar"
+- "cellBorderColor"
+- "cellBorderWidth"
+- "cellColorAdjacent"
+- "cellColorDefault"
+- "cellColorOutOfRange"
+- "cellColorToday"
+- "cellEventColor"
+- "cellFont"
+- "cellSelectedBorderColor"
+- "cellSelectedBorderWidth"
+- "cellSelectedColor"
+- "cellSelectedTextColor"
+- "cellShape"
+- "cellTextColorDefault"
+- "cellTextColorToday"
+- "cellTextColorWeekend"
+- "firstWeekday"
+- "headerBackgroundColor"
+- "headerFont"
+- "headerHeight"
+- "headerTextColor"
+- "headerTopMargin"
+- "locale"
+- "showAdjacentDays"
+- "weekDayTransform"
+- "weekdaysBackgroundColor"
+- "weekdaysBottomMargin"
+- "weekdaysFont"
+- "weekdaysHeight"
+- "weekdaysTextColor"
+- "weekdaysTopMargin"
+depends-top-level:
+- "/"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "Calendar"
+- "CalendarView"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Locale"
+- "StringLiteralType"
+- "TimeZone"
+- "UIColor"
+- "UIFont"
+depends-member:
+- ["So15CALayerDelegateP", "CGFloat"]
+- ["So15CALayerDelegateP", "Calendar"]
+- ["So15CALayerDelegateP", "Locale"]
+- ["So15CALayerDelegateP", "Style"]
+- ["So15CALayerDelegateP", "TimeZone"]
+- ["So15CALayerDelegateP", "UIColor"]
+- ["So15CALayerDelegateP", "UIFont"]
+- ["s7CVarArgP", "CGFloat"]
+- ["s7CVarArgP", "Calendar"]
+- ["s7CVarArgP", "Locale"]
+- ["s7CVarArgP", "Style"]
+- ["s7CVarArgP", "TimeZone"]
+- ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", "UIFont"]
+- ["s7CVarArgP", "black"]
+- ["s7CVarArgP", "clear"]
+- ["s7CVarArgP", "gray"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "systemFont"]
+- ["s7CVarArgP", "white"]
+- ["10Foundation8CalendarV", "init"]
+- ["10Foundation8CalendarV", "timeZone"]
+- ["10KDCalendar12CalendarViewC", "Bool"]
+- ["10KDCalendar12CalendarViewC", "CGFloat"]
+- ["10KDCalendar12CalendarViewC", "Calendar"]
+- ["10KDCalendar12CalendarViewC", "Locale"]
+- ["10KDCalendar12CalendarViewC", "Style"]
+- ["10KDCalendar12CalendarViewC", "TimeZone"]
+- ["10KDCalendar12CalendarViewC", "UIColor"]
+- ["10KDCalendar12CalendarViewC", "UIFont"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "=="]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "__derived_enum_equals"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "_rawHashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "deinit"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "grayed"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "hash"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "hashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "hidden"]
+- ["10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO", "normal"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "Bool"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "CGFloat"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "bevel"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "isRound"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "round"]
+- ["10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO", "square"]
+- ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- ["s28CustomDebugStringConvertibleP", "Calendar"]
+- ["s28CustomDebugStringConvertibleP", "Locale"]
+- ["s28CustomDebugStringConvertibleP", "Style"]
+- ["s28CustomDebugStringConvertibleP", "TimeZone"]
+- ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", "UIFont"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- ["s28CustomDebugStringConvertibleP", "clear"]
+- ["s28CustomDebugStringConvertibleP", "current"]
+- ["s28CustomDebugStringConvertibleP", "gray"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "systemFont"]
+- ["s28CustomDebugStringConvertibleP", "timeZone"]
+- ["s28CustomDebugStringConvertibleP", "white"]
+- ["s17CustomReflectableP", "current"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "timeZone"]
+- ["s23CustomStringConvertibleP", "CGFloat"]
+- ["s23CustomStringConvertibleP", "Calendar"]
+- ["s23CustomStringConvertibleP", "Locale"]
+- ["s23CustomStringConvertibleP", "Style"]
+- ["s23CustomStringConvertibleP", "TimeZone"]
+- ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", "UIFont"]
+- ["s23CustomStringConvertibleP", "black"]
+- ["s23CustomStringConvertibleP", "clear"]
+- ["s23CustomStringConvertibleP", "current"]
+- ["s23CustomStringConvertibleP", "gray"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "systemFont"]
+- ["s23CustomStringConvertibleP", "timeZone"]
+- ["s23CustomStringConvertibleP", "white"]
+- ["Se", "current"]
+- ["Se", "init"]
+- ["Se", "timeZone"]
+- ["SE", "current"]
+- ["SE", "init"]
+- ["SE", "timeZone"]
+- ["SQ", "=="]
+- ["SQ", "CGFloat"]
+- ["SQ", "Calendar"]
+- ["SQ", "Locale"]
+- ["SQ", "Style"]
+- ["SQ", "TimeZone"]
+- ["SQ", "UIColor"]
+- ["SQ", "UIFont"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "black"]
+- ["SQ", "capitalized"]
+- ["SQ", "clear"]
+- ["SQ", "current"]
+- ["SQ", "gray"]
+- ["SQ", "gregorian"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "monday"]
+- ["SQ", "systemFont"]
+- ["SQ", "timeZone"]
+- ["SQ", "white"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "=="]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "__derived_enum_equals"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "_rawHashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "deinit"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "hash"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "hashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "monday"]
+- ["10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO", "sunday"]
+- ["SH", "=="]
+- ["SH", "CGFloat"]
+- ["SH", "Calendar"]
+- ["SH", "Locale"]
+- ["SH", "Style"]
+- ["SH", "TimeZone"]
+- ["SH", "UIColor"]
+- ["SH", "UIFont"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "black"]
+- ["SH", "capitalized"]
+- ["SH", "clear"]
+- ["SH", "current"]
+- ["SH", "gray"]
+- ["SH", "gregorian"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "monday"]
+- ["SH", "systemFont"]
+- ["SH", "timeZone"]
+- ["SH", "white"]
+- !private ["s6HasherV", "combine"]
+- ["10Foundation8CalendarV10IdentifierO", "gregorian"]
+- ["10Foundation6LocaleV", "current"]
+- ["So8NSCodingP", "CGFloat"]
+- ["So8NSCodingP", "Calendar"]
+- ["So8NSCodingP", "Locale"]
+- ["So8NSCodingP", "Style"]
+- ["So8NSCodingP", "TimeZone"]
+- ["So8NSCodingP", "UIColor"]
+- ["So8NSCodingP", "UIFont"]
+- ["So8NSCodingP", "black"]
+- ["So8NSCodingP", "clear"]
+- ["So8NSCodingP", "gray"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "white"]
+- ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "clear"]
+- ["So9NSCopyingP", "gray"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "systemFont"]
+- ["So9NSCopyingP", "white"]
+- ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "clear"]
+- ["So21NSItemProviderReadingP", "gray"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderReadingP", "white"]
+- ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "clear"]
+- ["So21NSItemProviderWritingP", "gray"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So21NSItemProviderWritingP", "white"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "Calendar"]
+- ["So8NSObjectC", "Locale"]
+- ["So8NSObjectC", "Style"]
+- ["So8NSObjectC", "TimeZone"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIFont"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectC", "clear"]
+- ["So8NSObjectC", "gray"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "systemFont"]
+- ["So8NSObjectC", "white"]
+- ["So8NSObjectP", "CGFloat"]
+- ["So8NSObjectP", "Calendar"]
+- ["So8NSObjectP", "Locale"]
+- ["So8NSObjectP", "Style"]
+- ["So8NSObjectP", "TimeZone"]
+- ["So8NSObjectP", "UIColor"]
+- ["So8NSObjectP", "UIFont"]
+- ["So8NSObjectP", "black"]
+- ["So8NSObjectP", "clear"]
+- ["So8NSObjectP", "gray"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "systemFont"]
+- ["So8NSObjectP", "white"]
+- ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "clear"]
+- ["So14NSSecureCodingP", "gray"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "white"]
+- ["10Foundation20ReferenceConvertibleP", "current"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["10Foundation20ReferenceConvertibleP", "timeZone"]
+- !private ["10KDCalendar12CalendarViewC5StyleC", "$__lazy_storage_$_calendar"]
+- ["10KDCalendar12CalendarViewC5StyleC", "Bool"]
+- ["10KDCalendar12CalendarViewC5StyleC", "CGFloat"]
+- ["10KDCalendar12CalendarViewC5StyleC", "Calendar"]
+- ["10KDCalendar12CalendarViewC5StyleC", "CellOutOfRangeDisplayOptions"]
+- ["10KDCalendar12CalendarViewC5StyleC", "CellShapeOptions"]
+- ["10KDCalendar12CalendarViewC5StyleC", "Default"]
+- ["10KDCalendar12CalendarViewC5StyleC", "FirstWeekdayOptions"]
+- ["10KDCalendar12CalendarViewC5StyleC", "Locale"]
+- ["10KDCalendar12CalendarViewC5StyleC", "Style"]
+- ["10KDCalendar12CalendarViewC5StyleC", "TimeZone"]
+- ["10KDCalendar12CalendarViewC5StyleC", "UIColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "UIFont"]
+- ["10KDCalendar12CalendarViewC5StyleC", "WeekDaysTransform"]
+- ["10KDCalendar12CalendarViewC5StyleC", "calendar"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellBorderColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellBorderWidth"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellColorAdjacent"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellColorDefault"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellColorOutOfRange"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellColorToday"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellEventColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellFont"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellSelectedBorderColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellSelectedBorderWidth"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellSelectedColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellSelectedTextColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellShape"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellTextColorDefault"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellTextColorToday"]
+- ["10KDCalendar12CalendarViewC5StyleC", "cellTextColorWeekend"]
+- ["10KDCalendar12CalendarViewC5StyleC", "deinit"]
+- ["10KDCalendar12CalendarViewC5StyleC", "firstWeekday"]
+- ["10KDCalendar12CalendarViewC5StyleC", "headerBackgroundColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "headerFont"]
+- ["10KDCalendar12CalendarViewC5StyleC", "headerHeight"]
+- ["10KDCalendar12CalendarViewC5StyleC", "headerTextColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "headerTopMargin"]
+- ["10KDCalendar12CalendarViewC5StyleC", "init"]
+- ["10KDCalendar12CalendarViewC5StyleC", "locale"]
+- ["10KDCalendar12CalendarViewC5StyleC", "showAdjacentDays"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekDayTransform"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysBackgroundColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysBottomMargin"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysFont"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysHeight"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysTextColor"]
+- ["10KDCalendar12CalendarViewC5StyleC", "weekdaysTopMargin"]
+- ["10Foundation8TimeZoneV", "init"]
+- ["So29UIAccessibilityIdentificationP", "CGFloat"]
+- ["So29UIAccessibilityIdentificationP", "Calendar"]
+- ["So29UIAccessibilityIdentificationP", "Locale"]
+- ["So29UIAccessibilityIdentificationP", "Style"]
+- ["So29UIAccessibilityIdentificationP", "TimeZone"]
+- ["So29UIAccessibilityIdentificationP", "UIColor"]
+- ["So29UIAccessibilityIdentificationP", "UIFont"]
+- ["So12UIAppearanceP", "CGFloat"]
+- ["So12UIAppearanceP", "Calendar"]
+- ["So12UIAppearanceP", "Locale"]
+- ["So12UIAppearanceP", "Style"]
+- ["So12UIAppearanceP", "TimeZone"]
+- ["So12UIAppearanceP", "UIColor"]
+- ["So12UIAppearanceP", "UIFont"]
+- ["So21UIAppearanceContainerP", "CGFloat"]
+- ["So21UIAppearanceContainerP", "Calendar"]
+- ["So21UIAppearanceContainerP", "Locale"]
+- ["So21UIAppearanceContainerP", "Style"]
+- ["So21UIAppearanceContainerP", "TimeZone"]
+- ["So21UIAppearanceContainerP", "UIColor"]
+- ["So21UIAppearanceContainerP", "UIFont"]
+- ["So26UICollectionViewDataSourceP", "CGFloat"]
+- ["So26UICollectionViewDataSourceP", "Calendar"]
+- ["So26UICollectionViewDataSourceP", "Locale"]
+- ["So26UICollectionViewDataSourceP", "Style"]
+- ["So26UICollectionViewDataSourceP", "TimeZone"]
+- ["So26UICollectionViewDataSourceP", "UIColor"]
+- ["So26UICollectionViewDataSourceP", "UIFont"]
+- ["So24UICollectionViewDelegateP", "CGFloat"]
+- ["So24UICollectionViewDelegateP", "Calendar"]
+- ["So24UICollectionViewDelegateP", "Locale"]
+- ["So24UICollectionViewDelegateP", "Style"]
+- ["So24UICollectionViewDelegateP", "TimeZone"]
+- ["So24UICollectionViewDelegateP", "UIColor"]
+- ["So24UICollectionViewDelegateP", "UIFont"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "CGFloat"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "Calendar"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "Locale"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "Style"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "TimeZone"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "UIColor"]
+- ["So34UICollectionViewDelegateFlowLayoutP", "UIFont"]
+- ["So7UIColorC", "black"]
+- ["So7UIColorC", "clear"]
+- ["So7UIColorC", "gray"]
+- ["So7UIColorC", "init"]
+- ["So7UIColorC", "white"]
+- ["So17UICoordinateSpaceP", "CGFloat"]
+- ["So17UICoordinateSpaceP", "Calendar"]
+- ["So17UICoordinateSpaceP", "Locale"]
+- ["So17UICoordinateSpaceP", "Style"]
+- ["So17UICoordinateSpaceP", "TimeZone"]
+- ["So17UICoordinateSpaceP", "UIColor"]
+- ["So17UICoordinateSpaceP", "UIFont"]
+- ["So13UIDynamicItemP", "CGFloat"]
+- ["So13UIDynamicItemP", "Calendar"]
+- ["So13UIDynamicItemP", "Locale"]
+- ["So13UIDynamicItemP", "Style"]
+- ["So13UIDynamicItemP", "TimeZone"]
+- ["So13UIDynamicItemP", "UIColor"]
+- ["So13UIDynamicItemP", "UIFont"]
+- ["So18UIFocusEnvironmentP", "CGFloat"]
+- ["So18UIFocusEnvironmentP", "Calendar"]
+- ["So18UIFocusEnvironmentP", "Locale"]
+- ["So18UIFocusEnvironmentP", "Style"]
+- ["So18UIFocusEnvironmentP", "TimeZone"]
+- ["So18UIFocusEnvironmentP", "UIColor"]
+- ["So18UIFocusEnvironmentP", "UIFont"]
+- ["So11UIFocusItemP", "CGFloat"]
+- ["So11UIFocusItemP", "Calendar"]
+- ["So11UIFocusItemP", "Locale"]
+- ["So11UIFocusItemP", "Style"]
+- ["So11UIFocusItemP", "TimeZone"]
+- ["So11UIFocusItemP", "UIColor"]
+- ["So11UIFocusItemP", "UIFont"]
+- ["So20UIFocusItemContainerP", "CGFloat"]
+- ["So20UIFocusItemContainerP", "Calendar"]
+- ["So20UIFocusItemContainerP", "Locale"]
+- ["So20UIFocusItemContainerP", "Style"]
+- ["So20UIFocusItemContainerP", "TimeZone"]
+- ["So20UIFocusItemContainerP", "UIColor"]
+- ["So20UIFocusItemContainerP", "UIFont"]
+- ["So6UIFontC", "systemFont"]
+- ["So24UILargeContentViewerItemP", "CGFloat"]
+- ["So24UILargeContentViewerItemP", "Calendar"]
+- ["So24UILargeContentViewerItemP", "Locale"]
+- ["So24UILargeContentViewerItemP", "Style"]
+- ["So24UILargeContentViewerItemP", "TimeZone"]
+- ["So24UILargeContentViewerItemP", "UIColor"]
+- ["So24UILargeContentViewerItemP", "UIFont"]
+- ["So30UIPasteConfigurationSupportingP", "CGFloat"]
+- ["So30UIPasteConfigurationSupportingP", "Calendar"]
+- ["So30UIPasteConfigurationSupportingP", "Locale"]
+- ["So30UIPasteConfigurationSupportingP", "Style"]
+- ["So30UIPasteConfigurationSupportingP", "TimeZone"]
+- ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- ["So30UIPasteConfigurationSupportingP", "UIFont"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "Calendar"]
+- ["So11UIResponderC", "Locale"]
+- ["So11UIResponderC", "Style"]
+- ["So11UIResponderC", "TimeZone"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIFont"]
+- ["So30UIResponderStandardEditActionsP", "CGFloat"]
+- ["So30UIResponderStandardEditActionsP", "Calendar"]
+- ["So30UIResponderStandardEditActionsP", "Locale"]
+- ["So30UIResponderStandardEditActionsP", "Style"]
+- ["So30UIResponderStandardEditActionsP", "TimeZone"]
+- ["So30UIResponderStandardEditActionsP", "UIColor"]
+- ["So30UIResponderStandardEditActionsP", "UIFont"]
+- ["So20UIScrollViewDelegateP", "CGFloat"]
+- ["So20UIScrollViewDelegateP", "Calendar"]
+- ["So20UIScrollViewDelegateP", "Locale"]
+- ["So20UIScrollViewDelegateP", "Style"]
+- ["So20UIScrollViewDelegateP", "TimeZone"]
+- ["So20UIScrollViewDelegateP", "UIColor"]
+- ["So20UIScrollViewDelegateP", "UIFont"]
+- ["So18UITraitEnvironmentP", "CGFloat"]
+- ["So18UITraitEnvironmentP", "Calendar"]
+- ["So18UITraitEnvironmentP", "Locale"]
+- ["So18UITraitEnvironmentP", "Style"]
+- ["So18UITraitEnvironmentP", "TimeZone"]
+- ["So18UITraitEnvironmentP", "UIColor"]
+- ["So18UITraitEnvironmentP", "UIFont"]
+- ["So23UIUserActivityRestoringP", "CGFloat"]
+- ["So23UIUserActivityRestoringP", "Calendar"]
+- ["So23UIUserActivityRestoringP", "Locale"]
+- ["So23UIUserActivityRestoringP", "Style"]
+- ["So23UIUserActivityRestoringP", "TimeZone"]
+- ["So23UIUserActivityRestoringP", "UIColor"]
+- ["So23UIUserActivityRestoringP", "UIFont"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "Calendar"]
+- ["So6UIViewC", "Locale"]
+- ["So6UIViewC", "Style"]
+- ["So6UIViewC", "TimeZone"]
+- ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "UIFont"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "=="]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "__derived_enum_equals"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "_rawHashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "capitalized"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "deinit"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "hash"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "hashValue"]
+- ["10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO", "uppercase"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "clear"]
+- ["s26_ExpressibleByColorLiteralP", "gray"]
+- ["s26_ExpressibleByColorLiteralP", "init"]
+- ["s26_ExpressibleByColorLiteralP", "white"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGFloat"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Calendar"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Locale"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Style"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "TimeZone"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIFont"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "gray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "systemFont"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGFloat"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Calendar"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Locale"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Style"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TimeZone"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIFont"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "black"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gray"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "systemFont"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "white"]
+- ["s21_ObjectiveCBridgeableP", "current"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "timeZone"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "CGFloat"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "Calendar"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "Locale"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "Style"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "TimeZone"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UIColor"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UIFont"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "10Foundation8CalendarV"
+- "10KDCalendar12CalendarViewC"
+- "10KDCalendar12CalendarViewC5StyleC28CellOutOfRangeDisplayOptionsO"
+- "10KDCalendar12CalendarViewC5StyleC16CellShapeOptionsO"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "10KDCalendar12CalendarViewC5StyleC19FirstWeekdayOptionsO"
+- "SH"
+- !private "s6HasherV"
+- "10Foundation8CalendarV10IdentifierO"
+- "10Foundation6LocaleV"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "10Foundation20ReferenceConvertibleP"
+- "10KDCalendar12CalendarViewC5StyleC"
+- "10Foundation8TimeZoneV"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So26UICollectionViewDataSourceP"
+- "So24UICollectionViewDelegateP"
+- "So34UICollectionViewDelegateFlowLayoutP"
+- "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So6UIFontC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10KDCalendar12CalendarViewC5StyleC17WeekDaysTransformO"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/EventKit.framework/Headers/EventKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0a46f25b35d63fada4b38701fcde9e2e"

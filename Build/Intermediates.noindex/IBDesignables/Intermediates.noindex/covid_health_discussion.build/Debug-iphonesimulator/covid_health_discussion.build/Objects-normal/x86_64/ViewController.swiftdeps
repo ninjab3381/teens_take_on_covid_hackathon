@@ -1,0 +1,444 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "23covid_health_discussion14ViewControllerC"
+provides-member:
+- ["23covid_health_discussion14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "emailTextField"
+- "headerLabel"
+- "nameTextField"
+- "prepare"
+- "submit"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- "UIButton"
+- "UILabel"
+- "UIStoryboardSegue"
+- "UITextField"
+- "UIViewController"
+- "ViewController"
+- !private "ViewController1"
+depends-member:
+- !private ["So15CALayerDelegateP", "lineBreakMode"]
+- !private ["So15CALayerDelegateP", "numberOfLines"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "email"]
+- !private ["s7CVarArgP", "emailTextField"]
+- !private ["s7CVarArgP", "headerLabel"]
+- !private ["s7CVarArgP", "lineBreakMode"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "nameTextField"]
+- !private ["s7CVarArgP", "numberOfLines"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "emailTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "headerLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "lineBreakMode"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "nameTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOfLines"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "lineBreakMode"]
+- !private ["s17CustomReflectableP", "numberOfLines"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "email"]
+- !private ["s23CustomStringConvertibleP", "emailTextField"]
+- !private ["s23CustomStringConvertibleP", "headerLabel"]
+- !private ["s23CustomStringConvertibleP", "lineBreakMode"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "nameTextField"]
+- !private ["s23CustomStringConvertibleP", "numberOfLines"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "lineBreakMode"]
+- !private ["Se", "numberOfLines"]
+- !private ["Se", "text"]
+- !private ["SE", "lineBreakMode"]
+- !private ["SE", "numberOfLines"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "byWordWrapping"]
+- !private ["SQ", "destination"]
+- !private ["SQ", "email"]
+- !private ["SQ", "emailTextField"]
+- !private ["SQ", "headerLabel"]
+- !private ["SQ", "lineBreakMode"]
+- !private ["SQ", "name"]
+- !private ["SQ", "nameTextField"]
+- !private ["SQ", "numberOfLines"]
+- !private ["SQ", "performSegue"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "lineBreakMode"]
+- !private ["s23ExpressibleByNilLiteralP", "numberOfLines"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["SH", ""]
+- !private ["SH", "byWordWrapping"]
+- !private ["SH", "destination"]
+- !private ["SH", "email"]
+- !private ["SH", "emailTextField"]
+- !private ["SH", "headerLabel"]
+- !private ["SH", "lineBreakMode"]
+- !private ["SH", "name"]
+- !private ["SH", "nameTextField"]
+- !private ["SH", "numberOfLines"]
+- !private ["SH", "performSegue"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "email"]
+- !private ["So8NSCodingP", "emailTextField"]
+- !private ["So8NSCodingP", "headerLabel"]
+- !private ["So8NSCodingP", "lineBreakMode"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "nameTextField"]
+- !private ["So8NSCodingP", "numberOfLines"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "email"]
+- !private ["So26NSExtensionRequestHandlingP", "emailTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "headerLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "name"]
+- !private ["So26NSExtensionRequestHandlingP", "nameTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So15NSLineBreakModeV", "byWordWrapping"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UITextField"]
+- !private ["So8NSObjectC", "ViewController1"]
+- !private ["So8NSObjectC", "destination"]
+- !private ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "emailTextField"]
+- ["So8NSObjectC", "headerLabel"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineBreakMode"]
+- !private ["So8NSObjectC", "name"]
+- ["So8NSObjectC", "nameTextField"]
+- !private ["So8NSObjectC", "numberOfLines"]
+- !private ["So8NSObjectC", "performSegue"]
+- ["So8NSObjectC", "prepare"]
+- ["So8NSObjectC", "submit"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "destination"]
+- !private ["So8NSObjectP", "email"]
+- !private ["So8NSObjectP", "emailTextField"]
+- !private ["So8NSObjectP", "headerLabel"]
+- !private ["So8NSObjectP", "lineBreakMode"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "nameTextField"]
+- !private ["So8NSObjectP", "numberOfLines"]
+- !private ["So8NSObjectP", "performSegue"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "lineBreakMode"]
+- !private ["Sq", "numberOfLines"]
+- !private ["Sq", "text"]
+- !private ["SY", "byWordWrapping"]
+- !private ["So29UIAccessibilityIdentificationP", "lineBreakMode"]
+- !private ["So29UIAccessibilityIdentificationP", "numberOfLines"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "lineBreakMode"]
+- !private ["So12UIAppearanceP", "numberOfLines"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "email"]
+- !private ["So21UIAppearanceContainerP", "emailTextField"]
+- !private ["So21UIAppearanceContainerP", "headerLabel"]
+- !private ["So21UIAppearanceContainerP", "lineBreakMode"]
+- !private ["So21UIAppearanceContainerP", "name"]
+- !private ["So21UIAppearanceContainerP", "nameTextField"]
+- !private ["So21UIAppearanceContainerP", "numberOfLines"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "email"]
+- !private ["So18UIContentContainerP", "emailTextField"]
+- !private ["So18UIContentContainerP", "headerLabel"]
+- !private ["So18UIContentContainerP", "name"]
+- !private ["So18UIContentContainerP", "nameTextField"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "lineBreakMode"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "numberOfLines"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "lineBreakMode"]
+- !private ["So17UICoordinateSpaceP", "numberOfLines"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "lineBreakMode"]
+- !private ["So13UIDynamicItemP", "numberOfLines"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "email"]
+- !private ["So18UIFocusEnvironmentP", "emailTextField"]
+- !private ["So18UIFocusEnvironmentP", "headerLabel"]
+- !private ["So18UIFocusEnvironmentP", "lineBreakMode"]
+- !private ["So18UIFocusEnvironmentP", "name"]
+- !private ["So18UIFocusEnvironmentP", "nameTextField"]
+- !private ["So18UIFocusEnvironmentP", "numberOfLines"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "lineBreakMode"]
+- !private ["So11UIFocusItemP", "numberOfLines"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "lineBreakMode"]
+- !private ["So20UIFocusItemContainerP", "numberOfLines"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "lineBreakMode"]
+- !private ["So7UILabelC", "numberOfLines"]
+- !private ["So24UILargeContentViewerItemP", "lineBreakMode"]
+- !private ["So24UILargeContentViewerItemP", "numberOfLines"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "email"]
+- !private ["So30UIPasteConfigurationSupportingP", "emailTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "headerLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "lineBreakMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "name"]
+- !private ["So30UIPasteConfigurationSupportingP", "nameTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "numberOfLines"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UITextField"]
+- !private ["So11UIResponderC", "ViewController1"]
+- !private ["So11UIResponderC", "email"]
+- ["So11UIResponderC", "emailTextField"]
+- ["So11UIResponderC", "headerLabel"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "lineBreakMode"]
+- !private ["So11UIResponderC", "name"]
+- ["So11UIResponderC", "nameTextField"]
+- !private ["So11UIResponderC", "numberOfLines"]
+- !private ["So11UIResponderC", "performSegue"]
+- ["So11UIResponderC", "prepare"]
+- ["So11UIResponderC", "submit"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "email"]
+- !private ["So30UIResponderStandardEditActionsP", "emailTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "headerLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "lineBreakMode"]
+- !private ["So30UIResponderStandardEditActionsP", "name"]
+- !private ["So30UIResponderStandardEditActionsP", "nameTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "numberOfLines"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "email"]
+- !private ["So16UIStateRestoringP", "emailTextField"]
+- !private ["So16UIStateRestoringP", "headerLabel"]
+- !private ["So16UIStateRestoringP", "name"]
+- !private ["So16UIStateRestoringP", "nameTextField"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "email"]
+- !private ["So18UITraitEnvironmentP", "emailTextField"]
+- !private ["So18UITraitEnvironmentP", "headerLabel"]
+- !private ["So18UITraitEnvironmentP", "lineBreakMode"]
+- !private ["So18UITraitEnvironmentP", "name"]
+- !private ["So18UITraitEnvironmentP", "nameTextField"]
+- !private ["So18UITraitEnvironmentP", "numberOfLines"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "email"]
+- !private ["So23UIUserActivityRestoringP", "emailTextField"]
+- !private ["So23UIUserActivityRestoringP", "headerLabel"]
+- !private ["So23UIUserActivityRestoringP", "lineBreakMode"]
+- !private ["So23UIUserActivityRestoringP", "name"]
+- !private ["So23UIUserActivityRestoringP", "nameTextField"]
+- !private ["So23UIUserActivityRestoringP", "numberOfLines"]
+- !private ["So23UIUserActivityRestoringP", "performSegue"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "lineBreakMode"]
+- !private ["So6UIViewC", "numberOfLines"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UITextField"]
+- !private ["So16UIViewControllerC", "ViewController1"]
+- ["So16UIViewControllerC", ""]
+- !private ["So16UIViewControllerC", "email"]
+- ["So16UIViewControllerC", "emailTextField"]
+- ["So16UIViewControllerC", "headerLabel"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "name"]
+- ["So16UIViewControllerC", "nameTextField"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- ["So16UIViewControllerC", "prepare"]
+- ["So16UIViewControllerC", "submit"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["23covid_health_discussion14ViewControllerC", "UIButton"]
+- ["23covid_health_discussion14ViewControllerC", "UILabel"]
+- ["23covid_health_discussion14ViewControllerC", "UIStoryboardSegue"]
+- ["23covid_health_discussion14ViewControllerC", "UITextField"]
+- !private ["23covid_health_discussion14ViewControllerC", "ViewController1"]
+- ["23covid_health_discussion14ViewControllerC", "deinit"]
+- ["23covid_health_discussion14ViewControllerC", "emailTextField"]
+- ["23covid_health_discussion14ViewControllerC", "headerLabel"]
+- ["23covid_health_discussion14ViewControllerC", "init"]
+- ["23covid_health_discussion14ViewControllerC", "nameTextField"]
+- !private ["23covid_health_discussion14ViewControllerC", "performSegue"]
+- ["23covid_health_discussion14ViewControllerC", "prepare"]
+- ["23covid_health_discussion14ViewControllerC", "submit"]
+- ["23covid_health_discussion14ViewControllerC", "viewDidLoad"]
+- !private ["23covid_health_discussion15ViewController1C", "email"]
+- !private ["23covid_health_discussion15ViewController1C", "name"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "email"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emailTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "headerLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineBreakMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nameTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numberOfLines"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "destination"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "email"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "emailTextField"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "headerLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lineBreakMode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "nameTextField"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "numberOfLines"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "performSegue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "lineBreakMode"]
+- !private ["s21_ObjectiveCBridgeableP", "numberOfLines"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lineBreakMode"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "numberOfLines"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So15NSLineBreakModeV"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "SY"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "23covid_health_discussion14ViewControllerC"
+- !private "23covid_health_discussion15ViewController1C"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "17a0fd99bab560745e207a29092ad902"
