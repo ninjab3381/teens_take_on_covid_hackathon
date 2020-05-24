@@ -79,7 +79,7 @@ depends-member:
 - !private ["s7CVarArgP", "NSKeyedArchiver"]
 - !private ["s7CVarArgP", "NSKeyedUnarchiver"]
 - !private ["s7CVarArgP", "NSMutableParagraphStyle"]
-- ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "String"]
 - !private ["s7CVarArgP", "UIColor"]
 - !private ["s7CVarArgP", "UIFont"]
 - ["s7CVarArgP", "User"]
@@ -138,7 +138,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "NSKeyedArchiver"]
 - !private ["s28CustomDebugStringConvertibleP", "NSKeyedUnarchiver"]
 - !private ["s28CustomDebugStringConvertibleP", "NSMutableParagraphStyle"]
-- ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
 - !private ["s28CustomDebugStringConvertibleP", "UIColor"]
 - !private ["s28CustomDebugStringConvertibleP", "UIFont"]
 - ["s28CustomDebugStringConvertibleP", "User"]
@@ -198,7 +198,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "NSKeyedArchiver"]
 - !private ["s23CustomStringConvertibleP", "NSKeyedUnarchiver"]
 - !private ["s23CustomStringConvertibleP", "NSMutableParagraphStyle"]
-- ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "String"]
 - !private ["s23CustomStringConvertibleP", "UIColor"]
 - !private ["s23CustomStringConvertibleP", "UIFont"]
 - ["s23CustomStringConvertibleP", "User"]
@@ -273,7 +273,7 @@ depends-member:
 - !private ["SQ", "NSKeyedArchiver"]
 - !private ["SQ", "NSKeyedUnarchiver"]
 - !private ["SQ", "NSMutableParagraphStyle"]
-- ["SQ", "String"]
+- !private ["SQ", "String"]
 - !private ["SQ", "UIColor"]
 - !private ["SQ", "UIFont"]
 - ["SQ", "User"]
@@ -332,7 +332,6 @@ depends-member:
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "size"]
 - !private ["s23ExpressibleByNilLiteralP", "attributedText"]
-- ["s23ExpressibleByNilLiteralP", "init"]
 - !private ["s23ExpressibleByNilLiteralP", "lineBreakMode"]
 - !private ["s23ExpressibleByNilLiteralP", "numberOfLines"]
 - !private ["s23ExpressibleByNilLiteralP", "text"]
@@ -346,7 +345,7 @@ depends-member:
 - !private ["SH", "NSKeyedArchiver"]
 - !private ["SH", "NSKeyedUnarchiver"]
 - !private ["SH", "NSMutableParagraphStyle"]
-- ["SH", "String"]
+- !private ["SH", "String"]
 - !private ["SH", "UIColor"]
 - !private ["SH", "UIFont"]
 - ["SH", "User"]
@@ -417,7 +416,7 @@ depends-member:
 - !private ["So8NSCodingP", "NSKeyedArchiver"]
 - !private ["So8NSCodingP", "NSKeyedUnarchiver"]
 - !private ["So8NSCodingP", "NSMutableParagraphStyle"]
-- ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "String"]
 - !private ["So8NSCodingP", "UIColor"]
 - !private ["So8NSCodingP", "UIFont"]
 - ["So8NSCodingP", "User"]
@@ -460,7 +459,7 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "NSKeyedArchiver"]
 - !private ["So26NSExtensionRequestHandlingP", "NSKeyedUnarchiver"]
 - !private ["So26NSExtensionRequestHandlingP", "NSMutableParagraphStyle"]
-- ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
 - !private ["So26NSExtensionRequestHandlingP", "UIColor"]
 - !private ["So26NSExtensionRequestHandlingP", "UIFont"]
 - ["So26NSExtensionRequestHandlingP", "User"]
@@ -564,7 +563,7 @@ depends-member:
 - !private ["So8NSObjectP", "NSKeyedArchiver"]
 - !private ["So8NSObjectP", "NSKeyedUnarchiver"]
 - !private ["So8NSObjectP", "NSMutableParagraphStyle"]
-- ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "String"]
 - !private ["So8NSObjectP", "UIColor"]
 - !private ["So8NSObjectP", "UIFont"]
 - ["So8NSObjectP", "User"]
@@ -613,7 +612,6 @@ depends-member:
 - !private ["So14NSSecureCodingP", "size"]
 - !private ["So8NSStringC", "size"]
 - !private ["Sq", "attributedText"]
-- ["Sq", "init"]
 - !private ["Sq", "lineBreakMode"]
 - !private ["Sq", "numberOfLines"]
 - !private ["Sq", "text"]
@@ -652,7 +650,7 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "NSKeyedArchiver"]
 - !private ["So21UIAppearanceContainerP", "NSKeyedUnarchiver"]
 - !private ["So21UIAppearanceContainerP", "NSMutableParagraphStyle"]
-- ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "String"]
 - !private ["So21UIAppearanceContainerP", "UIColor"]
 - !private ["So21UIAppearanceContainerP", "UIFont"]
 - ["So21UIAppearanceContainerP", "User"]
@@ -685,7 +683,7 @@ depends-member:
 - !private ["So18UIContentContainerP", "NSKeyedArchiver"]
 - !private ["So18UIContentContainerP", "NSKeyedUnarchiver"]
 - !private ["So18UIContentContainerP", "NSMutableParagraphStyle"]
-- ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "String"]
 - !private ["So18UIContentContainerP", "UIColor"]
 - !private ["So18UIContentContainerP", "UIFont"]
 - ["So18UIContentContainerP", "User"]
@@ -725,7 +723,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "NSKeyedArchiver"]
 - !private ["So18UIFocusEnvironmentP", "NSKeyedUnarchiver"]
 - !private ["So18UIFocusEnvironmentP", "NSMutableParagraphStyle"]
-- ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "String"]
 - !private ["So18UIFocusEnvironmentP", "UIColor"]
 - !private ["So18UIFocusEnvironmentP", "UIFont"]
 - ["So18UIFocusEnvironmentP", "User"]
@@ -774,7 +772,7 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "NSKeyedArchiver"]
 - !private ["So30UIPasteConfigurationSupportingP", "NSKeyedUnarchiver"]
 - !private ["So30UIPasteConfigurationSupportingP", "NSMutableParagraphStyle"]
-- ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
 - !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
 - !private ["So30UIPasteConfigurationSupportingP", "UIFont"]
 - ["So30UIPasteConfigurationSupportingP", "User"]
@@ -852,7 +850,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "NSKeyedArchiver"]
 - !private ["So30UIResponderStandardEditActionsP", "NSKeyedUnarchiver"]
 - !private ["So30UIResponderStandardEditActionsP", "NSMutableParagraphStyle"]
-- ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
 - !private ["So30UIResponderStandardEditActionsP", "UIColor"]
 - !private ["So30UIResponderStandardEditActionsP", "UIFont"]
 - ["So30UIResponderStandardEditActionsP", "User"]
@@ -884,7 +882,7 @@ depends-member:
 - !private ["So16UIStateRestoringP", "NSKeyedArchiver"]
 - !private ["So16UIStateRestoringP", "NSKeyedUnarchiver"]
 - !private ["So16UIStateRestoringP", "NSMutableParagraphStyle"]
-- ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "String"]
 - !private ["So16UIStateRestoringP", "UIColor"]
 - !private ["So16UIStateRestoringP", "UIFont"]
 - ["So16UIStateRestoringP", "User"]
@@ -913,7 +911,7 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "NSKeyedArchiver"]
 - !private ["So18UITraitEnvironmentP", "NSKeyedUnarchiver"]
 - !private ["So18UITraitEnvironmentP", "NSMutableParagraphStyle"]
-- ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "String"]
 - !private ["So18UITraitEnvironmentP", "UIColor"]
 - !private ["So18UITraitEnvironmentP", "UIFont"]
 - ["So18UITraitEnvironmentP", "User"]
@@ -945,7 +943,7 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "NSKeyedArchiver"]
 - !private ["So23UIUserActivityRestoringP", "NSKeyedUnarchiver"]
 - !private ["So23UIUserActivityRestoringP", "NSMutableParagraphStyle"]
-- ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "String"]
 - !private ["So23UIUserActivityRestoringP", "UIColor"]
 - !private ["So23UIUserActivityRestoringP", "UIFont"]
 - ["So23UIUserActivityRestoringP", "User"]
@@ -1108,7 +1106,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "NSKeyedArchiver"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "NSKeyedUnarchiver"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableParagraphStyle"]
-- ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "UIFont"]
 - ["10Foundation27_KeyValueCodingAndObservingP", "User"]
@@ -1153,7 +1151,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSKeyedArchiver"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSKeyedUnarchiver"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSMutableParagraphStyle"]
-- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIColor"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIFont"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", "User"]
@@ -1235,7 +1233,7 @@ depends-nominal:
 - "s25ExpressibleByArrayLiteralP"
 - "s30ExpressibleByDictionaryLiteralP"
 - !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
-- "s23ExpressibleByNilLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
 - !private "s32ExpressibleByStringInterpolationP"
 - !private "s26ExpressibleByStringLiteralP"
 - !private "s33ExpressibleByUnicodeScalarLiteralP"
@@ -1262,7 +1260,7 @@ depends-nominal:
 - !private "So16NSParagraphStyleC"
 - "So14NSSecureCodingP"
 - !private "So8NSStringC"
-- "Sq"
+- !private "Sq"
 - "Sk"
 - "Sm"
 - !private "SY"
@@ -1343,4 +1341,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "8c4ab103d1b35c198142a82356408a74"
+interface-hash: "3b382106137ce10bf60bdaa3dd31b122"

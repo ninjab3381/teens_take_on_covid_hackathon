@@ -11,7 +11,9 @@ provides-dynamic-lookup:
 - "ArchiveURL"
 - "DocumentsDirectory"
 - "agegroup"
+- "availability"
 - "choice"
+- "country"
 - "email"
 - "encode"
 - "gender"
@@ -40,7 +42,9 @@ depends-member:
 - !private ["s7CVarArgP", "PropertyKey"]
 - ["s7CVarArgP", ""]
 - !private ["s7CVarArgP", "agegroup"]
+- !private ["s7CVarArgP", "availability"]
 - !private ["s7CVarArgP", "choice"]
+- !private ["s7CVarArgP", "country"]
 - !private ["s7CVarArgP", "decodeInteger"]
 - !private ["s7CVarArgP", "decodeObject"]
 - !private ["s7CVarArgP", "default"]
@@ -64,7 +68,9 @@ depends-member:
 - ["s28CustomDebugStringConvertibleP", ""]
 - !private ["s28CustomDebugStringConvertibleP", "agegroup"]
 - ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "availability"]
 - !private ["s28CustomDebugStringConvertibleP", "choice"]
+- !private ["s28CustomDebugStringConvertibleP", "country"]
 - !private ["s28CustomDebugStringConvertibleP", "decodeInteger"]
 - !private ["s28CustomDebugStringConvertibleP", "decodeObject"]
 - !private ["s28CustomDebugStringConvertibleP", "default"]
@@ -87,7 +93,9 @@ depends-member:
 - ["s23CustomStringConvertibleP", ""]
 - !private ["s23CustomStringConvertibleP", "agegroup"]
 - ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "availability"]
 - !private ["s23CustomStringConvertibleP", "choice"]
+- !private ["s23CustomStringConvertibleP", "country"]
 - !private ["s23CustomStringConvertibleP", "decodeInteger"]
 - !private ["s23CustomStringConvertibleP", "decodeObject"]
 - !private ["s23CustomStringConvertibleP", "default"]
@@ -114,7 +122,9 @@ depends-member:
 - ["SQ", ""]
 - !private ["SQ", "agegroup"]
 - ["SQ", "appendingPathComponent"]
+- !private ["SQ", "availability"]
 - !private ["SQ", "choice"]
+- !private ["SQ", "country"]
 - !private ["SQ", "debug"]
 - !private ["SQ", "decodeInteger"]
 - !private ["SQ", "decodeObject"]
@@ -143,7 +153,9 @@ depends-member:
 - ["SH", ""]
 - !private ["SH", "agegroup"]
 - ["SH", "appendingPathComponent"]
+- !private ["SH", "availability"]
 - !private ["SH", "choice"]
+- !private ["SH", "country"]
 - !private ["SH", "decodeInteger"]
 - !private ["SH", "decodeObject"]
 - !private ["SH", "default"]
@@ -170,7 +182,9 @@ depends-member:
 - !private ["So8NSCodingP", "PropertyKey"]
 - ["So8NSCodingP", ""]
 - !private ["So8NSCodingP", "agegroup"]
+- !private ["So8NSCodingP", "availability"]
 - !private ["So8NSCodingP", "choice"]
+- !private ["So8NSCodingP", "country"]
 - !private ["So8NSCodingP", "email"]
 - ["So8NSCodingP", "encode"]
 - ["So8NSCodingP", "encodeWithCoder"]
@@ -190,7 +204,9 @@ depends-member:
 - ["So8NSObjectC", "String"]
 - ["So8NSObjectC", ""]
 - ["So8NSObjectC", "agegroup"]
+- ["So8NSObjectC", "availability"]
 - ["So8NSObjectC", "choice"]
+- ["So8NSObjectC", "country"]
 - !private ["So8NSObjectC", "decodeInteger"]
 - !private ["So8NSObjectC", "decodeObject"]
 - !private ["So8NSObjectC", "default"]
@@ -210,7 +226,9 @@ depends-member:
 - !private ["So8NSObjectP", "PropertyKey"]
 - ["So8NSObjectP", ""]
 - !private ["So8NSObjectP", "agegroup"]
+- !private ["So8NSObjectP", "availability"]
 - !private ["So8NSObjectP", "choice"]
+- !private ["So8NSObjectP", "country"]
 - !private ["So8NSObjectP", "decodeInteger"]
 - !private ["So8NSObjectP", "decodeObject"]
 - !private ["So8NSObjectP", "default"]
@@ -228,7 +246,9 @@ depends-member:
 - !private ["So13os_log_type_ta", "debug"]
 - ["s9OptionSetP", "userDomainMask"]
 - ["23covid_health_discussion4UserC11PropertyKeyV", "agegroup"]
+- ["23covid_health_discussion4UserC11PropertyKeyV", "availability"]
 - ["23covid_health_discussion4UserC11PropertyKeyV", "choice"]
+- ["23covid_health_discussion4UserC11PropertyKeyV", "country"]
 - ["23covid_health_discussion4UserC11PropertyKeyV", "email"]
 - ["23covid_health_discussion4UserC11PropertyKeyV", "gender"]
 - ["23covid_health_discussion4UserC11PropertyKeyV", "init"]
@@ -255,7 +275,9 @@ depends-member:
 - ["23covid_health_discussion4UserC", "PropertyKey"]
 - ["23covid_health_discussion4UserC", "String"]
 - ["23covid_health_discussion4UserC", "agegroup"]
+- ["23covid_health_discussion4UserC", "availability"]
 - ["23covid_health_discussion4UserC", "choice"]
+- ["23covid_health_discussion4UserC", "country"]
 - ["23covid_health_discussion4UserC", "deinit"]
 - ["23covid_health_discussion4UserC", "email"]
 - ["23covid_health_discussion4UserC", "encode"]
@@ -278,7 +300,9 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "PropertyKey"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "agegroup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "availability"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "choice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "country"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeInteger"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeObject"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
@@ -298,7 +322,9 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PropertyKey"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "agegroup"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "availability"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "choice"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "country"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeInteger"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeObject"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
@@ -389,4 +415,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "9c5ee5abc59bfda14e665664ed0e2068"
+interface-hash: "ef6b4b1e29d1e3b433faeaa169c2a000"

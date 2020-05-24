@@ -176,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4913F9E7-41C0-42A3-864A-CD2E4A0C5A7D</string>
 		</dict>
+		<key>5A7E93AC-6457-49D4-8CF8-A94ADE26F3BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A7E93AC-6457-49D4-8CF8-A94ADE26F3BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>covid_health_discussion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>covid_health_discussion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build covid_health_discussion</string>
+			<key>timeStartedRecording</key>
+			<real>611994043.37142205</real>
+			<key>timeStoppedRecording</key>
+			<real>611994052.51107597</real>
+			<key>title</key>
+			<string>Build covid_health_discussion</string>
+			<key>uniqueIdentifier</key>
+			<string>5A7E93AC-6457-49D4-8CF8-A94ADE26F3BB</string>
+		</dict>
 		<key>5F0DDAB1-B226-4453-BB18-5B2DFB35C023</key>
 		<dict>
 			<key>className</key>

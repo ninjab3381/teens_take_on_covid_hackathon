@@ -1,13 +1,13 @@
 version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "38a2c5912c8b8c9174db74cc750f9330"
-build_time: [1590278469, 98525000]
+options: "cebec4d325e29df134e858e3698a3c8b"
+build_time: [1590301005, 702212000]
 inputs:
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController6.swift": [1590227501, 321902892]
-  "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/User.swift": [1590254926, 795508044]
+  "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/User.swift": [1590279215, 687187064]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController1.swift": [1590254496, 482704453]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController.swift": [1590256849, 563784019]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/AppDelegate.swift": [1589875496, 400994619]
-  "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController5.swift": [1590277905, 247499783]
+  "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController5.swift": [1590279215, 721518848]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController7.swift": [1590273435, 175658260]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController4.swift": [1590254656, 219293345]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController9.swift": [1590278392, 576552728]

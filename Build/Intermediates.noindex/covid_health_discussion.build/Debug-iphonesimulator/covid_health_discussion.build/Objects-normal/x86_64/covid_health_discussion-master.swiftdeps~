@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "36385eb12a04bf65e373431cb4c5a806"
-build_time: [1590279215, 985845000]
+options: "efd9c35241146f0caf8f7f50b78461cb"
+build_time: [1590281254, 150107000]
 inputs:
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/ViewController6.swift": [1590227501, 321902892]
   "/Users/rbhatia/Ninja/Apps/covid_health_discussion/covid_health_discussion/User.swift": [1590279215, 687187064]

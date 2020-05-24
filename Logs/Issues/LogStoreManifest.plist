@@ -34,7 +34,7 @@
 			<key>uniqueIdentifier</key>
 			<string>44D68E90-CBC9-422F-B7CF-A84CC404C7CC</string>
 		</dict>
-		<key>E224068C-BA0A-4BE5-BF4F-802303DE3717</key>
+		<key>68996710-B75F-474A-9AAF-8D3827A032EB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E224068C-BA0A-4BE5-BF4F-802303DE3717.xcactivitylog</string>
+			<string>68996710-B75F-474A-9AAF-8D3827A032EB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -54,13 +54,13 @@
 			<key>signature</key>
 			<string>covid_health_discussion-ffullpgyhzqdlogpqdmdaypxtdrp</string>
 			<key>timeStartedRecording</key>
-			<real>611974053.84069002</real>
+			<real>611994043.60712099</real>
 			<key>timeStoppedRecording</key>
-			<real>611974059.35309803</real>
+			<real>611994052.48873901</real>
 			<key>title</key>
 			<string>Build target covid_health_discussion</string>
 			<key>uniqueIdentifier</key>
-			<string>E224068C-BA0A-4BE5-BF4F-802303DE3717</string>
+			<string>68996710-B75F-474A-9AAF-8D3827A032EB</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
