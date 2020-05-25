@@ -1,1 +1,0 @@
-{"object": {"dependencies": [{"basedOn": null, "packageRef": {"identity": "calendarview", "kind": "remote", "name": "KDCalendar", "path": "https://github.com/mmick66/CalendarView.git"}, "state": {"checkoutState": {"branch": null, "revision": "d0b4808bb3c98ec8ece7999508e3eb7bc415acda", "version": "1.8.9"}, "name": "checkout"}, "subpath": "CalendarView"}]}, "version": 3}
